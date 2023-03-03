@@ -1,1 +1,1 @@
-{ "Title": "@Pia_Modded_apK", "Description": "پروتکل open در بعضی مناطق فیلتر شده\اگهn برای شما هم pia vpn متصل نمیشه برای فیلترشکن های رایگان و کرک شده بیشتر به کانال ما بپیوندید", "Link": "https://t.me/Pia_Modded_apK", "Color": "#40d146", "Button": "JOIN", "Show": "on" }
+{ "Title": "@Pia_Modded_apK", "Description": "پروتکل open در بعضی مناطق فیلتر شده\اگه برای شما هم pia vpn متصل نمیشه برای فیلترشکن های رایگان و کرک شده بیشتر به کانال ما بپیوندید", "Link": "https://t.me/Pia_Modded_apK", "Color": "#40d146", "Button": "JOIN", "Show": "on" }
